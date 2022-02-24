@@ -737,4 +737,7 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+.useful-links{
+    padding-left: 35px;
+}
 .footer-logo{  }
